@@ -10,6 +10,7 @@ let userID = 'ccdecf77-1e79-433e-a1f8-20db51eb868d';
 
 const proxyIPs = ['www.visa.de', 'www.visa.fr'];
 // const proxyIPs = ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
+// const proxyIPs = ['140.238.10.178', '193.122.103.122', 'sp.kjkkk.link', '104.16.60.79', '146.56.152.36', '146.56.154.121', '132.145.87.158', '146.56.176.255', 'cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org', '158.178.246.52', '152.69.221.98', '158.178.229.189', '158.178.229.68'];
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
